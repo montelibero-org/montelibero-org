@@ -1,0 +1,27 @@
+# Montelibero Stellar Anchor <https://montelibero.org>
+# https://github.com/stellar/stellar-protocol/tree/master/ecosystem
+
+ACCOUNTS=[
+"GACKTN5DAZGWXRWB2WLM6OPBDHAMT6SJNGLJZPQMEZBUR4JUGBX2UK7V",
+"GDX23CPGMQ4LN55VGEDVFZPAJMAUEHSHAMJ2GMCU2ZSHN5QF4TMZYPIS"
+]
+
+[DOCUMENTATION]
+ORG_NAME="Montelibero"
+ORG_DBA="Montelibero"
+ORG_URL="https://montelibero.org"
+ORG_LOGO="https://montelibero.org/images/logo.png"
+ORG_DESCRIPTION="Montelibero - investment crypto corporation for the development and support of projects in the field of individual freedom"
+ORG_GITHUB="montelibero-org"
+ORG_OFFICIAL_EMAIL="montelibero.fspe@gmail.com"
+ORG_SUPPORT_EMAIL="montelibero.fspe@gmail.com"
+
+[[CURRENCIES]]
+code="MTL"
+issuer="GACKTN5DAZGWXRWB2WLM6OPBDHAMT6SJNGLJZPQMEZBUR4JUGBX2UK7V"
+status="live"
+display_decimals=7
+anchor_asset_type="other"
+name=" Montelibero"
+desc="MTL - these are crypto-shares in the form of investment fund tokens that you can purchase, wanting to support its activities, and have your own formalized share in their fruits. By owning more than 10% of these shares, you automatically receive a membership in the Board of Directors of the Fund and participate in the development and adoption of all decisions, including the joint management of this token."
+image="https://montelibero.org/images/logo.png"
