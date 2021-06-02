@@ -25,3 +25,16 @@ anchor_asset_type="other"
 name=" Montelibero"
 desc="MTL - these are crypto-shares in the form of investment fund tokens that you can purchase, wanting to support its activities, and have your own formalized share in their fruits. By owning more than 10% of these shares, you automatically receive a membership in the Board of Directors of the Fund and participate in the development and adoption of all decisions, including the joint management of this token."
 image="https://montelibero.org/images/logo.png"
+
+[[CURRENCIES]]
+code="EURMTL"
+issuer="GACKTN5DAZGWXRWB2WLM6OPBDHAMT6SJNGLJZPQMEZBUR4JUGBX2UK7V"
+status="live"
+display_decimals=2
+anchor_asset_type="fiat"
+anchor_asset="EUR"
+is_asset_anchored=true
+name="EURMTL"
+desc="EURMTL stablecoin with 100% reservation, which MTL Foundation undertakes to exchange to bearers in Montenegro at the rate of 1 to 1 for euros."
+conditions="EURMTL secured by 100% reserve assets in euros."
+image="https://montelibero.org/images/eurmtl-small-logo.png"
