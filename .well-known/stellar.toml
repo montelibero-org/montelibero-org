@@ -38,3 +38,16 @@ name="EURMTL"
 desc="EURMTL stablecoin with 100% reservation, which MTL Foundation undertakes to exchange to bearers in Montenegro at the rate of 1 to 1 for euros."
 conditions="EURMTL secured by 100% reserve assets in euros."
 image="https://montelibero.org/images/eurmtl-small-logo.png"
+
+[[CURRENCIES]]
+code="EURDEBT"
+issuer="GACKTN5DAZGWXRWB2WLM6OPBDHAMT6SJNGLJZPQMEZBUR4JUGBX2UK7V"
+status="live"
+display_decimals=2
+anchor_asset_type="fiat"
+anchor_asset="EUR"
+is_asset_anchored=true
+name="EURDEBT"
+desc=""
+conditions=""
+image="https://montelibero.org/images/eurdebt-small-logo.png"
